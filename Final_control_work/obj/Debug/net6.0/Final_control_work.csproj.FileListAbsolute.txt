@@ -1,0 +1,15 @@
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.csproj.AssemblyReference.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.AssemblyInfoInputs.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.AssemblyInfo.cs
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.csproj.CoreCompileInputs.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/bin/Debug/net6.0/Final_control_work
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/bin/Debug/net6.0/Final_control_work.deps.json
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/bin/Debug/net6.0/Final_control_work.runtimeconfig.json
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/bin/Debug/net6.0/Final_control_work.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/bin/Debug/net6.0/Final_control_work.pdb
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/refint/Final_control_work.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.pdb
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/Final_control_work.genruntimeconfig.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/Final_control_work/obj/Debug/net6.0/ref/Final_control_work.dll
