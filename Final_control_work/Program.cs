@@ -5,15 +5,24 @@
 string []  Find_string_in_array (string [] array)
 {
     int length = array.Length;
-    string [] result = new string[length];
-    
-    
-    
+    int count = 0;
+    // Определяем кол-во строк, в которых <= 3 символов   
+    foreach(string str in array)
+    {
+        if (str.Length <= 3)
+        {
+            count++;
+        }
+    }
+
+    string[] result = new string[count];
+    int index = 0;
     for(int i = 0; i < length; i++)
     {
         if(array[i].Length <= 3 )
         {
-            result[i] = array[i];
+            result[index] = array[i];
+            index++;
         }
     }
     return result;
