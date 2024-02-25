@@ -31,4 +31,4 @@ string []  Find_string_in_array (string [] array)
 
 string [] input = {"Hello", "World", "from", "SPB", "!"};
 
-Console.WriteLine($"Массив из строк длиной мене либо равной 3 символам: [{string.Join(", ", Find_string_in_array(input))}]: ");
+Console.WriteLine($"Массив из строк длиной менее либо равной 3 символам: [{string.Join(", ", Find_string_in_array(input))}]: ");
